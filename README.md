@@ -2,7 +2,13 @@
 
 ## 使用说明
 
-本工具支持多种构建工具，包括`CMake`和`Make`。
+本工具支持多种构建工具，包括`CMake`和`Make`
+
+注意：windows平台需要`gcc`或者`clang`编译器,linux只需要安装`build-essential`包以及`cmake`工具
+
+## 示例
+
+![lost](./image.png)
 
 ### CMake
 
